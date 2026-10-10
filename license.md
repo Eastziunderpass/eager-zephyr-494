@@ -146,4 +146,4 @@ Windows 10/11、macOS 12+ 且有 4 GB 内存即可 — 详见上方要求。
 
 > **Windows 10 Digital License** — set it up once, stay activated. No product key, no subscription.
 
-*eager-zephyr-494 · 更新于 2026-10-09 · 基于 MIT 许可证共享*
+*eager-zephyr-494 · 更新于 2026-10-10 · 基于 MIT 许可证共享*
